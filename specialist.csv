@@ -1,0 +1,41 @@
+s,Disease,Specialist
+0,Fungal infection,Dermatologist
+1,Allergy,Allergist
+2,GERD,Gastroenterologist
+3,Chronic cholestasis,Hepatologist
+4,Drug Reaction,Dermatologist 
+5,Peptic ulcer diseae,Gastroenterologist
+6,AIDS,Infectious Disease Specialist
+7,Diabetes ,Endocrinologist
+8,Gastroenteritis,Gastroenterologist
+9,Bronchial Asthma,Pulmonologist
+10,Hypertension ,Cardiologist
+11,Migraine,Neurologist
+12,Cervical spondylosis,Orthopedic Surgeon
+13,Paralysis (brain hemorrhage),Neurologist
+14,Jaundice,Gastroenterologist
+15,Malaria,Infectious Disease Specialist
+16,Chicken pox,Infectious Disease Specialist
+17,Dengue,Infectious Disease Specialist
+18,Typhoid,Infectious Disease Specialist
+19,hepatitis A,Hepatologist
+20,Hepatitis B,Hepatologist
+21,Hepatitis C,Hepatologist
+22,Hepatitis D,Hepatologist
+23,Hepatitis E,Hepatologist
+24,Alcoholic hepatitis,Hepatologist
+25,Tuberculosis,Infectious Disease Specialist
+26,Common Cold,Otolaryngologist(ENT)
+27,Pneumonia,Pulmonologist
+28,Dimorphic hemmorhoids(piles),Proctologist
+29,Heart attack,Cardiologist
+30,Varicose veins,Vascular Surgeon
+31,Hypothyroidism,Endocrinologist
+32,Hypoglycemia,Endocrinologist
+33,Osteoarthristis,Rheumatologist
+34,Arthritis,Rheumatologist
+35,Paroymsal  Positional Vertigo,Otolaryngologist (ENT)
+36,Acne,Dermatologist
+37,Urinary tract infection,Urologist
+38,Psoriasis,Dermatologist
+39,Impetigo,Dermatologist

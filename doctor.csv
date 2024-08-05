@@ -1,0 +1,69 @@
+Clinic Name,Doctor Name,Specialization,Distance,Longitude,Rating,ExperienceYears,Available,Fees,Contact
+Homeopathic Clinic,Dr. Aditi Kapoor,Homeopathy,4,73.81195,4.2,0,Yes,300,9876543210
+"Lasik Laser Cataract Eye Surgery, Eye Clinic Specialist In Pune",Dr. Neil Patel,Ophthalmology,2,73.81537,3.8,8,Yes,600,8765432109
+Deshpande X-Ray & Sonography Clinic,Dr. Maya Patel,Radiology,1,73.80419,4.5,15,No,700,7654321098
+Health Point Polyclinic,Dr. Riya Kapoor,General Practice,3,73.80962,3.9,12,Yes,400,6543210987
+Dr Batra's,Dr. Disha Desai,Homeopathy,5,73.81705,4,6,Yes,500,5432109876
+Skin specialist in Pune kothrud clinic,Dr. Zara Kapoor,Dermatology,5,73.81588,4.7,18,Yes,800,4321098765
+Eternis Skin & Hair clinic,Dr. Isha Desai,Dermatology,4,73.81778,3.6,9,Yes,300,3210987654
+Patwardhan Eye Clinic,Dr. Mihir Patel,Ophthalmology,5,73.8177,4.3,14,Yes,700,2109876543
+Vitalife Clinic,Dr. Vikas Kapoor,Multispecialty,1,73.78254,4.1,7,Yes,500,1098765432
+Gholap Clinic,Dr. Shruti Desai,General Practice,2,73.8149,3.9,20,Yes,300,9988776655
+Samvedan Ent & Eye Care Center,Dr. Anjali Patel,"ENT, Ophthalmology",3,73.78987,4.6,11,Yes,600,8877665544
+Dr. Swanand S. Gholap,Dr. Sameer Desai,General Practice,5,73.78245,3.7,5,Yes,400,7766554433
+"Life Force Homeopathy Clinic, Paud Road, Pune",Dr. Nikita Kapoor,Homeopathy,4,73.81189,4.4,17,Yes,700,6655443322
+Skin City India - Skin Care and Hair Fall Treatment Specialist in Aundh,Dr. Rhea Sharma,Dermatology,4,73.8191,3.8,13,No,600,5544332211
+Spinalogy Clinic,Dr. Rohan Kapoor,Spinal Care,2,73.7907,4.2,22,Yes,200,4433221100
+Divya Eye Clinic,Dr. Priya Kapoor,Ophthalmology,5,73.80961,4.8,16,Yes,800,3322110099
+Vatsalya Women's Clinic,Dr. Kavita Patel,Obstetrics & Gynecology,3,73.80917,3.9,25,Yes,300,2211009988
+Lotus Clinic (Dr. Prachi Deshpande),Dr. Maya Patel,General Practice,1,73.81268,4.5,19,Yes,400,1100998877
+NuAyurveda Clinic,Dr. Mihir Patel,Ayurveda,1,73.80719,4.1,8,Yes,600,9998887766
+"Sunshine Physiotherapy Clinic ,Pune",Dr. Aditi Desai,Physiotherapy,2,73.7962,3.5,21,Yes,500,8887776655
+"Richfeel Trichology Centre, Aundh",Dr. Zara Kapoor,Trichology,3,73.80957,4,10,Yes,700,7776665544
+Ashwini Eye Care Clinic,Dr. Neil Desai,Ophthalmology,1,73.80795,4.3,14,Yes,600,6665554433
+Dr Pandit's Clinic for Dental Excellence & Implant Centre Pune,Dr. Disha Sharma,Dentistry,4,73.78306,3.8,6,Yes,500,5554443322
+Apollo Clinic - Aundh,Dr. Vikas Sharma,Multispecialty,5,73.79367,4.6,11,Yes,800,4443332211
+Arogya diagnostic clinic,Dr. Rhea Sharma,Diagnostics,3,73.80521,4.2,9,No,200,3332221100
+Women's Clinic,Dr. Kavita Patel,Obstetrics & Gynecology,2,73.7918,3.9,15,Yes,600,2221110099
+City Sleep Center,Dr. Mihir Patel,Neurologist,1,73.78543,4.7,12,Yes,300,1110009988
+Sunshine Women's Care,Dr. Disha Kapoor,Obstetrics & Gynecology,3,73.80883,3.6,7,Yes,700,9998887
+Peak Dental Associates,Dr. Rohan Desai,Dentist,4,73.76977,4.4,18,Yes,500,8999887766
+Breathe Well Respiratory Clinic,Dr. Isha Sharma,Pulmonologist,2,73.81295,3.8,5,Yes,400,7888776655
+City Pain Management Center,Dr. Maya Shah,Pain Management Specialist,3,73.78234,4.3,13,Yes,700,6777665544
+Global Kidney Care,Dr. Vikas Kapoor,Nephrologist,5,73.79121,3.7,16,Yes,600,5666554433
+Harmony Eye Clinic,Dr. Riya Desai,Ophthalmologist,5,73.78545,4.6,8,Yes,800,4555443322
+Joint Care & Wellness Center,Dr. Aditi Patel,Physiotherapist,3,73.7767,3.9,19,Yes,500,3444332211
+City Pediatrics,Dr. Neil Sharma,Pediatrician,2,73.78916,4.1,22,Yes,300,2333221100
+DermaGlo Skin Care,Dr. Anjali Desai,Cosmetologist,1,73.7736,3.8,17,Yes,600,1222110099
+Sunshine Women's Care,Dr. Shruti Shah,Obstetrics & Gynecology,1,73.80456,4.5,20,No,700,111009988
+Peak Dental Associates,Dr. Sameer Patel,Dentist,4,73.80691,3.6,14,Yes,400,1000998877
+Breathe Well Respiratory Clinic,Dr. Zara Kapoor,Pulmonologist,5,73.77507,4.2,9,Yes,200,9999887766
+City Pain Management Center,Dr. Mihir Shah,Pain Management Specialist,1,73.78591,3.9,6,Yes,500,8888776655
+Global Kidney Care,Dr. Disha Kapoor,Nephrologist,5,73.80836,4,11,Yes,800,7777665544
+Harmony Eye Clinic,Dr. Rohan Desai,Ophthalmologist,5,73.78591,4.7,25,Yes,600,6666554433
+Indrayani hospital,Dr Pratik ,Neurologist,1,73.85821,3.5,1,Yes,300,5555443322
+City Sleep Center,Dr. Isha Sharma,Neurologist,3,73.85821,3.5,3,Yes,300,5555443322
+Sunshine Pediatrics,Dr. Maya Patel,Pediatrician,4,73.86376,4.4,7,Yes,400,4444332211
+Peak Dental Associates,Dr. Rhea Kapoor,Oral Surgeon,4,73.86376,3.8,15,Yes,700,3333221100
+Breathe Well Respiratory Clinic,Dr. Neil Desai,Pulmonologist,3,73.8769,4.6,18,Yes,600,2222110099
+City Pain Management Center,Dr. Vikas Sharma,Pain Management Specialist,4,73.87959,3.7,10,Yes,500,1111109988
+Global Kidney Care,Dr. Aditi Patel,Nephrologist,2,73.89888,4.3,8,Yes,300,98877
+Harmony Eye Clinic,Dr. Shruti Shah,Ophthalmologist,5,73.87584,4,16,No,800,8999987766
+Joint Care & Wellness Center,Dr. Sameer Sharma,Sports Medicine Physician,5,73.89511,3.9,21,Yes,400,7888876655
+City Pediatrics,Dr. Zara Kapoor,Pediatrician,5,73.87644,4.8,18,Yes,600,6777765544
+City Sleep Center,Dr. Disha Shah,Sleep Specialist,3,73.87448,3.6,9,Yes,500,5666654433
+Health Point Polyclinic,Dr. Nisha Sharma,General Practitioner,2,73.87673,4.2,14,Yes,700,4555543322
+Dr Batra's,Dr. Ritu Batra,Dermatology,1,73.87732,3.9,7,Yes,300,3444432211
+Skin specialist in Pune kothrud clinic,Dr. Alisha Kapoor,Dermatology,3,73.87499,4.5,20,Yes,400,2333321100
+Eternis Skin & Hair clinic,Dr. Sameer Patwardhan,Dermatology,4,73.87655,3.8,11,Yes,600,1222210099
+Patwardhan Eye Clinic,Dr. Anuj Gupta,Internal Medicine,2,73.89874,4.1,5,Yes,200,111110098
+Vitalife Clinic,Dr. Swanand Gholap,General Practitioner,3,73.8629,3.7,17,Yes,800,1100097
+Gholap Clinic,Dr. Neha Sharma,General Practitioner,5,73.87672,4.4,13,Yes,500,8999000096
+Vitalife Clinic,Dr. Deepak Shah,Pediatrician,5,73.89874,3.6,22,Yes,700,7888899995
+Samvedan Ent & Eye Care Center,Dr. Meera Singh,Dermatology,3,73.90952,4.3,16,Yes,600,4555543322
+Dr. Swanand S. Gholap,Dr. Rajesh Singhania,Orthopedic Surgeon,2,73.9139,4,25,Yes,300,3444432211
+"Life Force Homeopathy Clinic, Paud Road, Pune",Dr. Divya Shah,Ophthalmology,3,73.91471,3.9,19,Yes,400,2333321100
+Vitalife Clinic,Dr. Priya Sharma,Dermatologist,2,73.90714,4.6,8,Yes,700,1222210099
+Skin City India - Skin Care and Hair Fall Treatment Specialist in Aundh,Dr. Prachi Deshpande,Dermatologist,1,73.88964,3.5,21,Yes,600,111110098
+Spinalogy Clinic,Dr. Rajesh Gupta,"	Orthopedic Surgeon",4,73.91364,4.2,15,Yes,500,1100097
+Lotus Clinic (Dr. Prachi Deshpande),Dr. Vikram Singh,Ophthalmology,4,73.90893,3.8,17,No,300,8999000096
